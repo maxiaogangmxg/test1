@@ -4,3 +4,4 @@ Git has mutable index called stage
 Git tracks change of files.
 Creating a new branch is quick and simple.
 Create dev branch aganin.
+The dev branch will be stached.
